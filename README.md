@@ -17,6 +17,7 @@
 
   * [Hyperledger India Chapter on Rocket chat](https://chat.hyperledger.org/channel/community-india)
   * [Hyperledger Fabric Wiki](https://wiki.hyperledger.org/display/fabric/Hyperledger+Fabric)
+  * [Hyperledger YouTube channel](https://www.youtube.com/channel/UC7_X0WkMtkWzaVUKF-PRBNQ/videos)
 
 
 
